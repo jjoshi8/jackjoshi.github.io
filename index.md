@@ -1,4 +1,4 @@
-<img src="AgentCentered37x37" class="inline"/>
+<img src="AgentCentered37x37.png" class="inline"/>
 
 You can use the [editor on GitHub](https://github.com/jjoshi8/jackjoshi.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
